@@ -1,4 +1,4 @@
-# HTML CSS Static Site Local Business Landing Page
+# HTML/CSS Static Site / Landing Page for a Local Business
 
 Goal: Show layout, responsiveness, and structure.
 Example: A one-pager for a fictional local coffee shop or barber.
