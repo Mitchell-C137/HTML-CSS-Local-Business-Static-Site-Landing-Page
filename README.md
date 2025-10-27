@@ -1,23 +1,34 @@
-# HTML/CSS Static Site — Landing Page for a Local Business
+# HTML/CSS Static Site — Sharp Cuts Barbershop Landing Page
 
 Goal:
 
-Show layout, responsiveness, and project structure.
+Create a professional, responsive landing page for a fictional local barbershop that showcases services and facilitates customer contact.
 
 Example:
 
-A one-page landing site for a fictional local coffee shop or barber.
+A modern one-page website for "Sharp Cuts" barbershop featuring:
+- Hero section with compelling call-to-action
+- Services showcase with pricing
+- About section
+- Contact form integration
 
 Skills demonstrated:
 
-- Clean, minimal layout
-- Responsive design (mobile-first)
-- Semantic HTML
-- CSS organization and components
+- Clean, minimal layout optimized for readability
+- Responsive design using mobile-first approach
+- Semantic HTML5 elements (header, nav, main, section, footer)
+- Modern CSS features:
+  - Flexbox and Grid layouts
+  - Custom properties
+  - Media queries
+  - Smooth transitions
+- Organized component-based CSS structure
 
 Add-on:
 
-- A simple contact form that simulates sending (e.g., via formsubmit.co)
+- Interactive contact form integrated with formsubmit.co
+- Responsive navigation menu
+- Price cards with hover effects
 
 Files:
 
